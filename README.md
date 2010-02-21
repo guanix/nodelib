@@ -12,4 +12,4 @@ Get the source for the included modules.
 
 # Adding modules
 
-git submodule add git://github.com/modulename lib/modulename
+    git submodule add git://github.com/modulename lib/modulename
