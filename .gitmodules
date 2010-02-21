@@ -13,3 +13,6 @@
 [submodule "lib/node-crypto"]
 	path = lib/node-crypto
 	url = git://github.com/waveto/node-crypto.git
+[submodule "lib/node-promise"]
+	path = lib/node-promise
+	url = git://github.com/kriszyp/node-promise.git
