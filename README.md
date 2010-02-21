@@ -1,4 +1,8 @@
-nodelib: A collection of useful libraries for node
+nodelib: A collection of useful modules for node
 ==================================================
 
-To be completed.
+Getting Started
+---------------
+Get the source for the included modules.
+
+    git submodule init
